@@ -9,6 +9,8 @@ I’m a Mechanical Engineering student at the University of Utah. I make practic
 - [Bluetooth LED Controller](https://github.com/Gavino1730/bluetooth-led-controller) — Python controls for Bluetooth LED strips with music and screen-reactive modes.
 - [Playlist Music Downloader](https://github.com/Gavino1730/playlist-music-downloader) — imports playlists, organizes local music, and applies track metadata.
 - [Health Tracker](https://github.com/Gavino1730/health-tracker) — a personal dashboard for recording routines and trends.
+- [Crypto Portfolio Bot](https://github.com/Gavino1730/crypto-portfolio-bot) — tracks a personal crypto portfolio, market prices, and price alerts.
+- [Basketball Stats Dashboard](https://github.com/Gavino1730/basketball-stats-dashboard) — loads basketball data for team, player, and trend summaries.
 
 ## What I use
 
